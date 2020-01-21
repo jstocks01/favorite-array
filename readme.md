@@ -21,4 +21,4 @@ _Git, HTML, CSS, JavaScript (jQuery)_
 
 ### License
 
-Copyright (c) 2019 **_Michelle Morin, Jason Stocks_**
+Copyright (c) 2020 **_Michelle Morin, Jason Stocks_**
